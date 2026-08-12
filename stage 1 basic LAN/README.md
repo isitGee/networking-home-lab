@@ -28,7 +28,7 @@ This lab demonstrates a basic Local Area Network (LAN) built with two PCs connec
 
 **IP configuration (screenshots)**
 
-![IP configurations](screenashots/ipconfigurations.png)
+![IP configurations](screenshots/ipconfigurations.png)
 
 **Testing and Results**
 
@@ -46,7 +46,7 @@ ping 192.168.1.10
 
 ![Simulation screenshot](screenshots/simulation.png)
 
-![Ping screenshot](screeshots/ping.png)
+![Ping screenshot](screenshots/ping.png)
 
 **Files included**
 
@@ -60,5 +60,3 @@ ping 192.168.1.10
 
 - The two hosts communicate directly since they're on the same subnet.
 - No gateway was required for host-to-host traffic.
-
-If you'd like, I can also add a small ASCII topology, update default gateway values, or include a short packet capture example.
