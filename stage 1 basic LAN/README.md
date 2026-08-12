@@ -28,7 +28,7 @@ This lab demonstrates a basic Local Area Network (LAN) built with two PCs connec
 
 **IP configuration (screenshots)**
 
-![IP configurations](./ip configurations.png)
+![IP configurations](./ipconfigurations.png)
 
 **Testing and Results**
 
