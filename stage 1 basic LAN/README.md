@@ -28,7 +28,7 @@ This lab demonstrates a basic Local Area Network (LAN) built with two PCs connec
 
 **IP configuration (screenshots)**
 
-![IP configurations](./ipconfigurations.png)
+![IP configurations](.screenashots/ipconfigurations.png)
 
 **Testing and Results**
 
@@ -44,9 +44,9 @@ ping 192.168.1.20
 ping 192.168.1.10
 ```
 
-![Simulation screenshot](./simulation.png)
+![Simulation screenshot](.screenshots/simulation.png)
 
-![Ping screenshot](./ping.png)
+![Ping screenshot](.screeshots/ping.png)
 
 **Files included**
 
